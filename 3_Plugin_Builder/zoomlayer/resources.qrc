@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Zoom_Layer" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
